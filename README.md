@@ -34,3 +34,4 @@ final_balance, profit = staking_rewards(initial, apr, days, compound=(compound_c
 # Вывод результатов
 print(f"\n🔹 Итоговая сумма: {final_balance:.6f} токенов")
 print(f"💰 Чистая прибыль: {profit:.6f} токенов")
+nice
